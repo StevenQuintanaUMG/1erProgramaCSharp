@@ -33,4 +33,4 @@ Console.WriteLine("La suma de los numeros es: " + sum);
 Console.WriteLine("La resta de los numeros es: " + res);
 Console.WriteLine("El producto de los numeros es: " + prod);
 
-//comentario para git
+//comentario para video 
